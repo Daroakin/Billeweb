@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Billeweb/static/css/main.bd2442cf.css",
+    "main.js": "/Billeweb/static/js/main.1dc44a96.js",
+    "static/js/787.a92de3f0.chunk.js": "/Billeweb/static/js/787.a92de3f0.chunk.js",
+    "index.html": "/Billeweb/index.html",
+    "main.bd2442cf.css.map": "/Billeweb/static/css/main.bd2442cf.css.map",
+    "main.1dc44a96.js.map": "/Billeweb/static/js/main.1dc44a96.js.map",
+    "787.a92de3f0.chunk.js.map": "/Billeweb/static/js/787.a92de3f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2442cf.css",
+    "static/js/main.1dc44a96.js"
+  ]
+}
